@@ -1,7 +1,7 @@
 {
   "name": "RosemaryPack",
   "version_number": "1.0.0",
-  "website_url": "https://github.com",
+  "website_url": "https://github.com/gradyalexis/rosemary-lc-modpack",
   "description": "Rosemary Mod Pack for Lethal Company",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
